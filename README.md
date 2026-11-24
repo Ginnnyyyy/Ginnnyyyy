@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="#projects">Projects</a> &nbsp; · &nbsp;
+  <a href="#completed-projects">Completed projects</a> &nbsp; · &nbsp;
+  <a href="#projects">Other projects</a> &nbsp; · &nbsp;
   <a href="#on-my-build-list">On my build list</a> &nbsp; · &nbsp;
   <a href="#tools-i-work-with">Tools</a> &nbsp; · &nbsp;
   <a href="#a-little-about-me">About</a>
@@ -12,6 +13,24 @@
 I'm **Peter**, a Computer Science and Data Analytics in Business Intelligence student in Singapore. I like figuring out how things work, spotting where a process gets stuck, and seeing what I can build to improve it.
 
 You'll find a mix here: dashboards, AI tools, automation and experiments with financial data. I'm looking for **analyst and technology roles** where I can keep learning and work on real business problems.
+
+## Completed projects
+
+### University coursework
+
+<a href="https://github.com/Ginnnyyyy/Ginnnyyyy/blob/main/projects/ict283-weather.md">
+  <img src="https://raw.githubusercontent.com/Ginnnyyyy/Ginnnyyyy/7f91c04d86cdc0a7f3c3c0c83151fade5c81f8ae/assets/ict283.svg" alt="Completed ICT283 coursework: C++ weather data analysis, custom vector, map abstraction and AVL traversal. Read the project overview." width="100%" />
+</a>
+
+Two assignment versions covering weather statistics, CSV loading and data structures. **Both compile; 14 bounded smoke checks pass.**
+
+<a href="https://github.com/Ginnnyyyy/Ginnnyyyy/blob/main/projects/ict373-magazine.md">
+  <img src="https://raw.githubusercontent.com/Ginnnyyyy/Ginnnyyyy/7f91c04d86cdc0a7f3c3c0c83151fade5c81f8ae/assets/ict373.svg" alt="Completed ICT373 coursework: Java magazine subscription service, console and JavaFX versions. Read the project overview." width="100%" />
+</a>
+
+Customer relationships, subscription billing and saved records. **Console and JavaFX versions compile; console and domain checks pass.** Interactive GUI behaviour has not been tested.
+
+<sub>Completed coursework, presented through public summaries. Completion describes the university projects, not production readiness.</sub>
 
 ## Projects
 
@@ -44,15 +63,6 @@ Equity and gold ETF research with replay logic and accounting checks. Historical
 <sub>Python · Backtesting · Offline tests · Live trading blocked</sub>
 
 <sub>Click a featured card for its overview. The featured projects above have private source repositories.</sub>
-
-## Coursework, with code
-
-These repositories contain the application source from my university assignments, organised by version.
-
-| Project | What to explore |
-| :--- | :--- |
-| **[C++ Weather Data Analysis — ICT283](https://github.com/Ginnnyyyy/cpp-weather-data-analysis)** | Two versions: custom vector, map abstraction, AVL traversal, weather statistics and reproducible demos. |
-| **[Java Magazine Subscription Service — ICT373](https://github.com/Ginnnyyyy/java-magazine-subscription-service)** | Console and JavaFX versions, customer relationships, billing calculations and file persistence. |
 
 ## On my build list
 

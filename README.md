@@ -16,28 +16,28 @@ You'll find a mix here: dashboards, AI tools, automation and experiments with fi
 ## Projects
 
 <a href="https://github.com/Ginnnyyyy/Ginnnyyyy/blob/main/projects/hawkersense.md">
-  <img src="https://raw.githubusercontent.com/Ginnnyyyy/Ginnnyyyy/main/assets/hawkersense.svg?v=3" alt="HawkerSense — hackathon application for hawker sales, stock and AI-assisted preparation. Read the project overview." width="100%" />
+  <img src="https://raw.githubusercontent.com/Ginnnyyyy/Ginnnyyyy/a0a7b8d168e0fdedfb0d9b914fc386703796436c/assets/hawkersense.svg" alt="HawkerSense — hackathon application for hawker sales, stock and AI-assisted preparation. Read the project overview." width="100%" />
 </a>
 
 Sales records, notebook-photo extraction and demand forecasts, with the hawker reviewing the final plan.  
 <sub>Python · FastAPI · React · Firebase · Google Cloud AI</sub>
 
 <a href="https://github.com/Ginnnyyyy/Ginnnyyyy/blob/main/projects/power-bi.md">
-  <img src="https://raw.githubusercontent.com/Ginnnyyyy/Ginnnyyyy/main/assets/power-bi.svg?v=3" alt="Digital access and innovation — team Power BI project comparing Germany and Poland. Read the project overview." width="100%" />
+  <img src="https://raw.githubusercontent.com/Ginnnyyyy/Ginnnyyyy/a0a7b8d168e0fdedfb0d9b914fc386703796436c/assets/power-bi.svg" alt="Digital access and innovation — team Power BI project comparing Germany and Poland. Read the project overview." width="100%" />
 </a>
 
 Internet use and patent activity in Germany and Poland. My focus: **Power BI modelling, DAX, filters and forecast visuals**.  
 <sub>Power BI · DAX · Power Query · Python · Team coursework</sub>
 
 <a href="https://github.com/Ginnnyyyy/Ginnnyyyy/blob/main/projects/babypete.md">
-  <img src="https://raw.githubusercontent.com/Ginnnyyyy/Ginnnyyyy/main/assets/babypete.svg?v=3" alt="BabyPete — an AI studio in development, with a local animated office and supervised task tracking. Read the project overview." width="100%" />
+  <img src="https://raw.githubusercontent.com/Ginnnyyyy/Ginnnyyyy/a0a7b8d168e0fdedfb0d9b914fc386703796436c/assets/babypete.svg" alt="BabyPete — an AI studio in development, with a local animated office and supervised task tracking. Read the project overview." width="100%" />
 </a>
 
 An animated office for my AI development workflow: tasks, roles, returned reviews and decisions in one place. Still a **supervised prototype**.  
 <sub>Python · SQLite · Google ADK</sub>
 
 <a href="https://github.com/Ginnnyyyy/Ginnnyyyy/blob/main/projects/quant-research.md">
-  <img src="https://raw.githubusercontent.com/Ginnnyyyy/Ginnnyyyy/main/assets/quant.svg?v=3" alt="Quant research — historical ETF experiments, portfolio accounting checks and offline tests. Read the project overview." width="100%" />
+  <img src="https://raw.githubusercontent.com/Ginnnyyyy/Ginnnyyyy/a0a7b8d168e0fdedfb0d9b914fc386703796436c/assets/quant.svg" alt="Quant research — historical ETF experiments, portfolio accounting checks and offline tests. Read the project overview." width="100%" />
 </a>
 
 Equity and gold ETF research with replay logic and accounting checks. Historical testing is underway; prospective paper validation is a separate next step.  

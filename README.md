@@ -43,7 +43,16 @@ An animated office for my AI development workflow: tasks, roles, returned review
 Equity and gold ETF research with replay logic and accounting checks. Historical testing is underway; prospective paper validation is a separate next step.  
 <sub>Python · Backtesting · Offline tests · Live trading blocked</sub>
 
-<sub>Click a project card for its overview. Source repositories remain private.</sub>
+<sub>Click a featured card for its overview. The featured projects above have private source repositories.</sub>
+
+## Coursework, with code
+
+These repositories contain the application source from my university assignments, organised by version.
+
+| Project | What to explore |
+| :--- | :--- |
+| **[C++ Weather Data Analysis — ICT283](https://github.com/Ginnnyyyy/cpp-weather-data-analysis)** | Two versions: custom vector, map abstraction, AVL traversal, weather statistics and reproducible demos. |
+| **[Java Magazine Subscription Service — ICT373](https://github.com/Ginnnyyyy/java-magazine-subscription-service)** | Console and JavaFX versions, customer relationships, billing calculations and file persistence. |
 
 ## On my build list
 

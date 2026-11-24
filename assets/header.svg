@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Peter — Analytics, automation and applied AI</title>
+<desc id="desc">Navy portfolio banner with blue geometric paths and an amber accent.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1224"/><stop offset="1" stop-color="#172d50"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8eacdb" stroke-opacity=".08"/></pattern></defs>
+<rect width="1200" height="340" rx="20" fill="url(#bg)"/><rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+<circle cx="1090" cy="160" r="195" fill="#60a5fa" opacity=".04"/><circle cx="1090" cy="160" r="135" fill="none" stroke="#60a5fa" stroke-opacity=".18"/>
+<path d="M845 238L905 194L965 212L1034 129L1090 153L1152 77" fill="none" stroke="#60a5fa" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#60a5fa"><circle cx="845" cy="238" r="5"/><circle cx="905" cy="194" r="5"/><circle cx="965" cy="212" r="5"/><circle cx="1090" cy="153" r="5"/><circle cx="1152" cy="77" r="5"/></g><circle cx="1034" cy="129" r="8" fill="#fbbf24"/>
+<rect x="58" y="55" width="48" height="5" rx="2.5" fill="#fbbf24"/>
+<text x="58" y="105" fill="#93c5fd" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">MYO PYAE PHYO</text>
+<text x="54" y="184" fill="#f8fafc" font-family="Arial,sans-serif" font-size="72" font-weight="700" letter-spacing="-2">Hi, I'm Peter.</text>
+<text x="58" y="232" fill="#dbeafe" font-family="Arial,sans-serif" font-size="23">Analytics. Automation. Applied AI.</text>
+<text x="58" y="286" fill="#9eb4d1" font-family="Arial,sans-serif" font-size="17">Understand the process. Build something useful.</text>
+</svg>

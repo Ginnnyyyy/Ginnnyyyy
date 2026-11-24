@@ -1,110 +1,81 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ginnnyyyy/Ginnnyyyy/main/assets/header.svg" alt="Hi, I'm Peter. Analytics, automation and applied AI. Understand the process. Build something useful." width="100%" />
+  <img src="https://raw.githubusercontent.com/Ginnnyyyy/Ginnnyyyy/main/assets/header.svg?v=2" alt="Hi, I'm Peter. Curious about data. Always building something. Data analytics, business intelligence and automation." width="100%" />
 </p>
 
 <p align="center">
-  <strong>Data analytics &amp; business intelligence · Process improvement · Practical software</strong>
+  <a href="#projects">Projects</a> &nbsp; · &nbsp;
+  <a href="#on-my-build-list">On my build list</a> &nbsp; · &nbsp;
+  <a href="#tools-i-work-with">Tools</a> &nbsp; · &nbsp;
+  <a href="#a-little-about-me">About</a>
 </p>
 
-<p align="center">
-  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
-  <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
-  <a href="#about-me">About me</a>
-</p>
+I'm **Peter**, a Computer Science and Data Analytics in Business Intelligence student in Singapore. I like figuring out how things work, spotting where a process gets stuck, and seeing what I can build to improve it.
 
----
+You'll find a mix here: dashboards, AI tools, automation and experiments with financial data. I'm looking for **analyst and technology roles** where I can keep learning and work on real business problems.
 
-I'm **Myo Pyae Phyo (Peter)**, based in Singapore. I enjoy understanding how a business works, finding the tasks that slow people down, and building tools that help them make better decisions.
+## Projects
 
-My work brings together **data analysis, dashboards, automation and applied AI**. I'm interested in analyst and technology roles where I can connect business needs with practical implementation.
+<a href="https://github.com/Ginnnyyyy/Ginnnyyyy/blob/main/projects/hawkersense.md">
+  <img src="https://raw.githubusercontent.com/Ginnnyyyy/Ginnnyyyy/main/assets/hawkersense.svg" alt="HawkerSense — hackathon application for hawker sales, stock and AI-assisted preparation. Read the project overview." width="100%" />
+</a>
 
-## Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 01 / HawkerSense
-**Applied AI for everyday operations**
-
-A hackathon application that brings sales recording, stock tracking, demand forecasts and human-reviewed preparation guidance into a hawker's workflow.
-
+Sales records, notebook-photo extraction and demand forecasts, with the hawker reviewing the final plan.  
 <sub>Python · FastAPI · React · Firebase · Google Cloud AI</sub>
 
-**[Read the project overview →](https://github.com/Ginnnyyyy/Ginnnyyyy/blob/main/projects/hawkersense.md)**  
-[Explore the application ↗](https://hawkersense-848ba.web.app/)
+<a href="https://github.com/Ginnnyyyy/Ginnnyyyy/blob/main/projects/power-bi.md">
+  <img src="https://raw.githubusercontent.com/Ginnnyyyy/Ginnnyyyy/main/assets/power-bi.svg" alt="Digital access and innovation — team Power BI project comparing Germany and Poland. Read the project overview." width="100%" />
+</a>
 
-</td>
-<td width="50%" valign="top">
+Internet use and patent activity in Germany and Poland. My focus: **Power BI modelling, DAX, filters and forecast visuals**.  
+<sub>Power BI · DAX · Power Query · Python · Team coursework</sub>
 
-### 02 / Digital access & innovation
-**Data modelling and business intelligence**
+<a href="https://github.com/Ginnnyyyy/Ginnnyyyy/blob/main/projects/babypete.md">
+  <img src="https://raw.githubusercontent.com/Ginnnyyyy/Ginnnyyyy/main/assets/babypete.svg" alt="BabyPete — an AI studio in development, with a local animated office and supervised task tracking. Read the project overview." width="100%" />
+</a>
 
-A team Power BI project comparing Germany and Poland through internet use and patent activity. My focus: the model, DAX, interactive visuals and forecast presentation.
-
-<sub>Power BI · DAX · Power Query · Python</sub>
-
-**[Read the project overview →](https://github.com/Ginnnyyyy/Ginnnyyyy/blob/main/projects/power-bi.md)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03 / BabyPete
-**Making AI workflows visible**
-
-A local animated office for tracking tasks, role definitions, returned reviews and owner decisions. Currently a supervised prototype, with further automation in development.
-
+An animated office for my AI development workflow: tasks, roles, returned reviews and decisions in one place. Still a **supervised prototype**.  
 <sub>Python · SQLite · Google ADK</sub>
 
-**[Read the project overview →](https://github.com/Ginnnyyyy/Ginnnyyyy/blob/main/projects/babypete.md)**
+<a href="https://github.com/Ginnnyyyy/Ginnnyyyy/blob/main/projects/quant-research.md">
+  <img src="https://raw.githubusercontent.com/Ginnnyyyy/Ginnnyyyy/main/assets/quant.svg" alt="Quant research — historical ETF experiments, portfolio accounting checks and offline tests. Read the project overview." width="100%" />
+</a>
 
-</td>
-<td width="50%" valign="top">
+Equity and gold ETF research with replay logic and accounting checks. Historical testing is underway; prospective paper validation is a separate next step.  
+<sub>Python · Backtesting · Offline tests · Live trading blocked</sub>
 
-### 04 / Quantitative research
-**Research with explicit validation**
+<sub>Click a project card for its overview. Source repositories remain private.</sub>
 
-Historical equity and gold ETF experiments with portfolio accounting checks, replay logic and offline execution tests. Paper validation is a separate milestone.
+## On my build list
 
-<sub>Python · Backtesting · Accounting checks · Offline tests</sub>
+A few things I want to explore next. These are **plans and ideas**, with no promised release dates.
 
-**[Read the project overview →](https://github.com/Ginnnyyyy/Ginnnyyyy/blob/main/projects/quant-research.md)**
+| | Project | What I want to explore |
+| :---: | :--- | :--- |
+| ⚽ | **Football match analysis** | A YOLO-based computer vision project, planned for after exams. |
+| 📊 | **Company analysis dashboard** | Bring company performance, financial data and relevant news into one view, with automated updates. |
+| 🎮 | **Mobile idle RPG** | A 2D idle action RPG, starting with a small playable prototype and exploring online features later. |
 
-</td>
-</tr>
-</table>
+**Next steps for projects already in progress**
 
-<sub>These are public project summaries. Underlying repositories remain private. Team work is identified, and prototypes are described by their current capabilities.</sub>
+- **BabyPete:** move from supervised handoffs toward isolated workers, independent reviews and more automated delivery.
+- **Quant research:** connect the research workflow to a guarded paper-trading setup and collect prospective observations.
 
-## Toolkit
+## Tools I work with
 
-| Area | Tools and focus |
-| :--- | :--- |
-| Analytics & BI | Power BI, DAX, Power Query, Excel, SQL |
-| Programming | Python, R, C++, Java |
-| Applications & cloud | FastAPI, React, Firebase, Google Cloud |
-| Engineering | Git/GitHub, automated checks, reproducible workflows |
-| Business analysis | Process mapping, requirements, bottleneck analysis, decision support |
+<img src="https://raw.githubusercontent.com/Ginnnyyyy/Ginnnyyyy/main/assets/toolkit.svg" alt="Python, SQL, Power BI, Excel, R, FastAPI, React, Firebase, Git and GitHub" width="100%" />
 
-## How I approach a project
+I also use **C++ and Java**, and I'm interested in process mapping, requirements analysis and communicating findings clearly.
 
-**Understand the process → Define the question → Build → Validate → Explain**
+## A little about me
 
-I use AI to support development and exploration, with attention to checking outputs, understanding limitations and keeping decisions reviewable.
+🎓 Studying **Computer Science + Data Analytics in Business Intelligence** at Murdoch University through Kaplan Singapore. Previously completed an IT diploma and an NUS Emeritus data analytics certificate.
 
-## About me
+🗂️ **Secretary, Murdoch IT Society Singapore.**
 
-- **Education:** Computer Science and Data Analytics in Business Intelligence at Murdoch University, through Kaplan Singapore.
-- **Additional learning:** IT diploma and an NUS Emeritus data analytics certificate.
-- **Leadership:** Secretary, Murdoch IT Society Singapore.
-- **Interests:** Business analysis, automation, applied AI and financial data.
-- **Career direction:** Analyst and technology opportunities where I can learn quickly and contribute to practical business improvements.
+🛠️ I use AI throughout my learning and development workflow, and spend time checking the results and understanding what I ship.
+
+📍 **Singapore** · Interested in **business analysis, BI, automation and applied AI**.
 
 ---
 
-<p align="center">
-  <strong>Useful questions. Clear evidence. Practical tools.</strong><br />
-  <sub>Singapore · Open to analyst &amp; technology opportunities</sub>
-</p>
+<p align="center"><sub>Usually learning something. Probably planning another project.</sub></p>

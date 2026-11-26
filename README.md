@@ -30,6 +30,12 @@ Two assignment versions covering weather statistics, CSV loading and data struct
 
 Customer relationships, subscription billing and saved records. **Console and JavaFX versions compile; console and domain checks pass.** Interactive GUI behaviour has not been tested.
 
+<a href="https://github.com/Ginnnyyyy/Ginnnyyyy/blob/main/projects/mas223-statistics.md">
+  <img src="https://raw.githubusercontent.com/Ginnnyyyy/Ginnnyyyy/5431c699d5d09bd714a5200c94c8ec7fa92f218a/assets/mas223.svg" alt="Completed MAS223 coursework: Applied Statistics in R, resampling, regression, PCA and classification. Read the project overview." width="100%" />
+</a>
+
+Three R assignments spanning **resampling, regression, PCA, LDA and classification trees**. Original report and code are private; numerical reproduction awaits the datasets.
+
 <sub>Completed coursework, presented through public summaries. Completion describes the university projects, not production readiness.</sub>
 
 ## Projects
